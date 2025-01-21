@@ -14,3 +14,5 @@ portfolio:
 
 -modifier les icon-close et icon-hamburger à partir du fichier svg que yannick à envoyé.
 -remettre le logo en responsive mode
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API
