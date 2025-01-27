@@ -12,7 +12,9 @@ https://openclassrooms.com/fr/courses/7008001-debutez-avec-react
 
 portfolio:
 
--modifier les icon-close et icon-hamburger à partir du fichier svg que yannick à envoyé.
--remettre le logo en responsive mode
+-modifier les icon-close et icon-hamburger à partir du fichier svg que yannick a envoyé.
+-remettre le logo en responsive mode.
+
+
 
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API
