@@ -11,6 +11,7 @@ Dossier professionnel (fin mars)
 
 Dossier projet (fin mars)
 
+grafikart react
 
 
 
@@ -24,10 +25,7 @@ https://openclassrooms.com/fr/courses/8039116-decouvrez-typescript
 
 https://openclassrooms.com/fr/courses/7008001-debutez-avec-react
 
-portfolio:
 
--modifier les icon-close et icon-hamburger à partir du fichier svg que yannick a envoyé.
--remettre le logo en responsive mode.
 
 
 
